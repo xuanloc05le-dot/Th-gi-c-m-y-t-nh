@@ -1,0 +1,64 @@
+{
+  "total_pairs": 788,
+  "statistics": {
+    "train": {
+      "samples": 552,
+      "pixels": [
+        141235685,
+        1692525,
+        662952,
+        782968,
+        329358
+      ],
+      "images_with_class": [
+        552,
+        287,
+        198,
+        191,
+        175
+      ]
+    },
+    "val": {
+      "samples": 118,
+      "pixels": [
+        29901570,
+        513408,
+        188504,
+        249504,
+        80006
+      ],
+      "images_with_class": [
+        118,
+        66,
+        53,
+        54,
+        48
+      ]
+    },
+    "test": {
+      "samples": 118,
+      "pixels": [
+        30095472,
+        345038,
+        198037,
+        205035,
+        89410
+      ],
+      "images_with_class": [
+        118,
+        59,
+        42,
+        54,
+        51
+      ]
+    }
+  },
+  "exact_duplicate_pairs": [],
+  "split_sha256": "2523f024c0871a278f2b20c085f156b2c5492391c780cb92bd41dc03380c6a71",
+  "image_sizes": {
+    "(512, 512)": 1576
+  },
+  "image_modes": {
+    "RGB": 1576
+  }
+}

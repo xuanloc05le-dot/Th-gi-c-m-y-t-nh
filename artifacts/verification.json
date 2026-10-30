@@ -1,0 +1,43 @@
+{
+  "python": "3.9.6",
+  "torch": "2.2.2",
+  "numpy": "1.26.4",
+  "pillow": "11.3.0",
+  "matplotlib": "3.9.4",
+  "unit_tests": {
+    "passed": 3,
+    "failed": 0
+  },
+  "checks": [
+    "Full audit of 788 pre/post/mask samples",
+    "No exact duplicate image pairs",
+    "All splits have all five labels",
+    "Training smoke test on 4 samples",
+    "Evaluation on validation at original mask resolution",
+    "Prediction CLI exports labels, colors, overlay and pixel counts",
+    "Full 20-epoch GPU training on all 552 train pairs",
+    "Final evaluation on all 118 held-out test pairs",
+    "GPU checkpoint loaded and used for CPU prediction",
+    "Visual inspection of actual test comparison"
+  ],
+  "full_training": {
+    "status": "completed",
+    "run": "runs/unet6_mps",
+    "epochs_completed": 20,
+    "best_epoch": 20,
+    "train_samples": 552,
+    "val_samples": 118,
+    "test_samples": 118,
+    "debug_training": false,
+    "training_device": "mps",
+    "evaluation_device": "cpu",
+    "epoch_minutes": 55.644714434733324
+  },
+  "test_metrics": {
+    "miou_damage": 0.13185719934801787,
+    "macro_dice_damage": 0.21096757377164987,
+    "building_iou": 0.5406101927415891,
+    "building_dice": 0.7018130806723374
+  },
+  "checkpoint_sha256": "fb11c7e1b68d753a45d24cc5d314e734c70dbd832a1057b5e175b0894333c35e"
+}

@@ -1,0 +1,254 @@
+{
+  "README.md": {
+    "bytes": 8788,
+    "sha256": "57dfdf6985e408e29a7abd2dc404a26bf23f73e77e2205e034838ef484956d08"
+  },
+  "BAO_CAO_LE_XUAN_LOC.md": {
+    "bytes": 10966,
+    "sha256": "476b8b1f95a42b4ddd4e4d7602128e07ad19d50e3c6ec342810636db4012dbe3"
+  },
+  "requirements.txt": {
+    "bytes": 53,
+    "sha256": "fe0486e36ca0d9d77e356c34ccf9fc444ec9597cf9756adde271aa3f67ac1863"
+  },
+  "splits.json": {
+    "bytes": 235907,
+    "sha256": "2523f024c0871a278f2b20c085f156b2c5492391c780cb92bd41dc03380c6a71"
+  },
+  "Le_Xuan_Loc_UNet6_Colab.ipynb": {
+    "bytes": 7271,
+    "sha256": "c62ac22d38e0d0dd3fbea32ba374d50e23bdf4fdb683c4a0f0074da2fd37c262"
+  },
+  ".gitignore": {
+    "bytes": 36,
+    "sha256": "9e7e146ffa209f45bb36bb947b155e03294b689dd965bd419fd8f441be2d719d"
+  },
+  "unet6/__init__.py": {
+    "bytes": 68,
+    "sha256": "185fff95ae31334828edc42fd7988046e5ea48aca59215b00df48bef77ad1592"
+  },
+  "unet6/data.py": {
+    "bytes": 3752,
+    "sha256": "810a78bfc7a474a27f10f99c4fbfc1b05ef4ec004de7866b75d18d674bd39ce3"
+  },
+  "unet6/evaluate.py": {
+    "bytes": 3572,
+    "sha256": "b83952c772c215a4591a8f914b0c5cf8c3973fd84c9f45730b0942a6e32f713f"
+  },
+  "unet6/metrics.py": {
+    "bytes": 1895,
+    "sha256": "3641671727b0a0e0f91eb32ea0ad66c0a52db9eb2f44f85d1fc8b8481165fa2c"
+  },
+  "unet6/model.py": {
+    "bytes": 1758,
+    "sha256": "073ab3fc07a7d60d8f217119d79ac19b1cab9af9bcad09597b62fc67ff86be8f"
+  },
+  "unet6/predict.py": {
+    "bytes": 1489,
+    "sha256": "017b3e29f19d42e0cb7ed0602a1f40f5f1cf8ff9553a1be758d41a02d40527ea"
+  },
+  "unet6/prepare.py": {
+    "bytes": 2513,
+    "sha256": "43b2e00dd64fa2fdac30d30e4b779c327e08de82a7c0b5e747abe7ba3dc211a3"
+  },
+  "unet6/runtime.py": {
+    "bytes": 2059,
+    "sha256": "cc44b25a7c0bbfe8afec776748d8f9e77c30496c1f3e5c08aef24dac92aacfe0"
+  },
+  "unet6/summarize.py": {
+    "bytes": 5349,
+    "sha256": "8d0aaa3e2ce609ea12a6a46b0db2351144da7b6d00368a8ccdd7283ce5f45d11"
+  },
+  "unet6/train.py": {
+    "bytes": 6989,
+    "sha256": "04bf9837aa46bee03fa3d1b3c7255d7fed4e94d291984cfce1ad5312b71bbf1a"
+  },
+  "unet6/visualize.py": {
+    "bytes": 850,
+    "sha256": "bd4189d716140cf44bff58d4919b8a9e46b97dc3c0e413166de0c68806fb259c"
+  },
+  "tests/test_pipeline.py": {
+    "bytes": 3032,
+    "sha256": "8b85911faeaf20326a1db0b8d1b914eb5fccc6389ff52d42a715edac1bf96608"
+  },
+  "artifacts/data_audit.json": {
+    "bytes": 998,
+    "sha256": "5c537bc2a3b606efa32e8af7e1d323c2a7230041ea1c31159f44e4977bbcc741"
+  },
+  "artifacts/verification.json": {
+    "bytes": 1320,
+    "sha256": "fe3e1762dc25a88180b054072564acb3d7187e04f7b0a73a7e00cdc30e8a3c89"
+  },
+  "artifacts/dataset_example.png": {
+    "bytes": 826261,
+    "sha256": "ab748306760ba98e3fe4d8aae8a8c69630270eaf490230cfb92e3f781d6119d6"
+  },
+  "artifacts/unet6_test_example.png": {
+    "bytes": 1064502,
+    "sha256": "b366b73017f4be428b1d61b72218b87e1c293b884e38e8a13115d919fbf58d3b"
+  },
+  "runs/unet6_mps/best.pt": {
+    "bytes": 7816408,
+    "sha256": "fb11c7e1b68d753a45d24cc5d314e734c70dbd832a1057b5e175b0894333c35e"
+  },
+  "runs/unet6_mps/config.json": {
+    "bytes": 772,
+    "sha256": "95921e931e3807e28bd4c3fd68df0a9bc7e77203b6fbfb6104024d0fa50fdd16"
+  },
+  "runs/unet6_mps/history.csv": {
+    "bytes": 2597,
+    "sha256": "7474af23c028f63eedd992f2fcc1434a3d6b229ce736b5e4279468022761b0bd"
+  },
+  "runs/unet6_mps/best_val_metrics.json": {
+    "bytes": 1767,
+    "sha256": "7fd1ca401d24178963f76841904e4574e6ed40b8d767998d06d0769fefbda285"
+  },
+  "runs/unet6_mps/splits_used.json": {
+    "bytes": 235907,
+    "sha256": "2523f024c0871a278f2b20c085f156b2c5492391c780cb92bd41dc03380c6a71"
+  },
+  "runs/unet6_mps/learning_curves.png": {
+    "bytes": 71529,
+    "sha256": "b92b746856baea0b707f1c0d15e018c6db641b11d3d40b571beca1ab2cd2af3f"
+  },
+  "runs/unet6_mps/KET_QUA.md": {
+    "bytes": 2788,
+    "sha256": "90b3b6307e28f140707a5a76830833f1d5e3d91d8df4f19130f6121c6c2633a4"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_002062_color.png": {
+    "bytes": 980,
+    "sha256": "5ed1c726e11735e38ee2372c1505114836246bca96d2b9e36d34c17b45a91227"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_002062_comparison.png": {
+    "bytes": 913864,
+    "sha256": "e57a6e1c3774d76bcf2310d10b9daf3ca19a14692ae5319d15193427708c181a"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_002062_labels.png": {
+    "bytes": 434,
+    "sha256": "a98e584347825cba0206de6e7bcfa963cb1e8c7dfb1fa6d594855ed4a6905743"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_005230_color.png": {
+    "bytes": 843,
+    "sha256": "1707efe457307d0a5e2f5a1ec1cff55b2a44286f3c4d8dda32bf394be8963b8b"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_005230_comparison.png": {
+    "bytes": 919139,
+    "sha256": "83030210ec00aefc7f8595078cfffb0e9497af3531ff1e359330fd3502e610f4"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_005230_labels.png": {
+    "bytes": 334,
+    "sha256": "65795a5b91030a2a433dae510d1edf494082a9cfa1153cd94f3797759f68f257"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_005606_color.png": {
+    "bytes": 843,
+    "sha256": "1707efe457307d0a5e2f5a1ec1cff55b2a44286f3c4d8dda32bf394be8963b8b"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_005606_comparison.png": {
+    "bytes": 1023793,
+    "sha256": "69c94abf3d6972bbee185d18039daf6cd703ab7142dedf361ecfa962da62c8a9"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_005606_labels.png": {
+    "bytes": 334,
+    "sha256": "65795a5b91030a2a433dae510d1edf494082a9cfa1153cd94f3797759f68f257"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_011969_color.png": {
+    "bytes": 2414,
+    "sha256": "65e5f5539b52dd79eb8a6eba6a8bb0d4d0d32900812ca666b686f346d29e185c"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_011969_comparison.png": {
+    "bytes": 1038737,
+    "sha256": "6490ef6f7c2e05c00701e99a4e326cb3eab1f6fad574b36dd83edca59e50df56"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_011969_labels.png": {
+    "bytes": 1535,
+    "sha256": "05136e1cc405aab3b8dca6a6465a839bd1dc434468ac00dfd6e928431614fc50"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_012279_color.png": {
+    "bytes": 5555,
+    "sha256": "2ca1a033363eb8538679e8bbe854ecb652d2bcb2d2db13912ba8db21133c0dfc"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_012279_comparison.png": {
+    "bytes": 1261491,
+    "sha256": "2bd8a3b433c18b21d3e57ffb79f0d4f6bfd745a302007aeeef5c5deab8d0e83c"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_012279_labels.png": {
+    "bytes": 3910,
+    "sha256": "ef7bb21338c83f631a2a513f2c6a703937022b192110f301e0c77ffb435bfc11"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_013615_color.png": {
+    "bytes": 4081,
+    "sha256": "9196e0b7eccd532d874533303a854ad63bd47d7c4cfec9f4804edc8085490ca2"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_013615_comparison.png": {
+    "bytes": 1046536,
+    "sha256": "0fec4f3e2a6d5f171b83bb245bfb9440124c26ea304ece64ba442e6f2036cac3"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_013615_labels.png": {
+    "bytes": 2993,
+    "sha256": "4778f4c7a91953bba5075ee0a374a0e2f5301145b0dd63981eae6e2fa8f08745"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_014580_color.png": {
+    "bytes": 843,
+    "sha256": "1707efe457307d0a5e2f5a1ec1cff55b2a44286f3c4d8dda32bf394be8963b8b"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_014580_comparison.png": {
+    "bytes": 972763,
+    "sha256": "527384bd8e84adefdd55256c304da526e7fa09d9489dc2efd71811b84a7c1b73"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_014580_labels.png": {
+    "bytes": 334,
+    "sha256": "65795a5b91030a2a433dae510d1edf494082a9cfa1153cd94f3797759f68f257"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_014725_color.png": {
+    "bytes": 4223,
+    "sha256": "970395553d30a11803bf88dc8787c05e028df06423c88c05b65e92f63fbb0d2e"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_014725_comparison.png": {
+    "bytes": 1064502,
+    "sha256": "b366b73017f4be428b1d61b72218b87e1c293b884e38e8a13115d919fbf58d3b"
+  },
+  "runs/unet6_mps/test/HURRICANE-IRMA__HURRICANE-IRMA_014725_labels.png": {
+    "bytes": 3015,
+    "sha256": "170b58b5d422bdb8a5f61eee721c71f6b65a4bc2879d295339d169f485afd329"
+  },
+  "runs/unet6_mps/test/confusion_matrix.csv": {
+    "bytes": 139,
+    "sha256": "be047bb9678b76c350a2b161af49b4c9d736e863d2dd535bb7c65d646919b654"
+  },
+  "runs/unet6_mps/test/confusion_matrix.png": {
+    "bytes": 118333,
+    "sha256": "455fb8fb23aa9a2f686b96b634aa3c1a44a3bf17fa117c45af15786fb64c4cfe"
+  },
+  "runs/unet6_mps/test/metrics.json": {
+    "bytes": 2040,
+    "sha256": "834696ed2e3699b617b8ed11b7f062f63bb0ce7a7ae8b8e95bac37e3d5338730"
+  },
+  "runs/unet6_mps/test/per_class.csv": {
+    "bytes": 559,
+    "sha256": "9aaf8ab5da496ef56fa1c67508ade39507f5e09c1b173573cc6f93a179bb8418"
+  },
+  "runs/unet6_mps/demo/buildings.png": {
+    "bytes": 2666,
+    "sha256": "4bccc04770870e223db17ce3e3793f9f35070610617cc3f8ebdee6ab5ac9f71a"
+  },
+  "runs/unet6_mps/demo/color.png": {
+    "bytes": 4223,
+    "sha256": "970395553d30a11803bf88dc8787c05e028df06423c88c05b65e92f63fbb0d2e"
+  },
+  "runs/unet6_mps/demo/comparison.png": {
+    "bytes": 1025072,
+    "sha256": "862fe1639f38243d805e425f9d591d8b1e4ef461e314f875cbf3b612538ab6cf"
+  },
+  "runs/unet6_mps/demo/labels.png": {
+    "bytes": 3015,
+    "sha256": "170b58b5d422bdb8a5f61eee721c71f6b65a4bc2879d295339d169f485afd329"
+  },
+  "runs/unet6_mps/demo/overlay.png": {
+    "bytes": 419560,
+    "sha256": "60dbc0302f712e699070b9f01cd267b5e6f098132828091a7f8ce207b729339b"
+  },
+  "runs/unet6_mps/demo/pixel_counts.json": {
+    "bytes": 110,
+    "sha256": "92f616feccaeff6c88f9ebbfd38484c626633895ddaf23d4f5d2c4dd72aee21e"
+  }
+}
